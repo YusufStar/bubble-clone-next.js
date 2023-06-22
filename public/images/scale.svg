@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Artboard</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="36" height="36" rx="9.29743926"></rect>
+    </defs>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Rectangle-Copy-5" fill="#1FAD6C" xlink:href="#path-1"></use>
+        <polygon id="Stroke-590" fill-opacity="0.138221154" fill="#FFFFFF" mask="url(#mask-2)" transform="translate(18.000000, 24.334513) scale(-1, 1) translate(-18.000000, -24.334513) " points="0 13.129484 5.1428614 17.4108533 10.285693 11.1746462 15.4285544 13.6556235 20.5714158 11.1746462 25.7142772 22.8441056 30.8571386 19.4770366 36 24.172103 36 37.4943802 0 37.4943802"></polygon>
+        <path d="M15.428,12.518 L21.0808102,9.79250431 L26.163,21.326 L30.9608129,18.1857785 L36.6900873,23.4161982 C37.107562,23.7973229 37.1370295,24.4447156 36.7559048,24.8621903 C36.4040974,25.2475516 35.8254107,25.3023031 35.4101086,25.0086813 L35.3099127,24.9280078 L30.753,20.767 L25.2646496,24.3618618 L20.061,12.557 L15.4285544,14.7920276 L10.564,12.445 L5.27828393,18.8553737 L-0.654854957,13.9161082 C-1.08929546,13.5544418 -1.14829052,12.9090696 -0.786624117,12.4746291 C-0.452778204,12.0736071 0.12280516,11.9924913 0.551080249,12.2668452 L0.654854957,12.3428599 L5.007,15.966 L10.0070345,9.903814 L15.428,12.518 Z" id="Stroke-590" fill="#D0F0FD" fill-rule="nonzero" mask="url(#mask-2)" transform="translate(17.999990, 17.494072) scale(-1, 1) translate(-17.999990, -17.494072) "></path>
+    </g>
+</svg>
